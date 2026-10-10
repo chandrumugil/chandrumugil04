@@ -1,13 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:312E81,100:7C3AED&height=190&section=header&text=CHANDRUMUGIL%20A&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPER&descSize=13&descAlignY=65&animation=fadeIn" width="100%" alt="Profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:7C3AED&height=180&section=header&text=CHANDRUMUGIL%20A&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%26%20DATA%20SCIENCE%20STUDENT&descSize=14&descAlignY=62" width="100%" alt="Chandrumugil A profile banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+Intelligent+Applications;Learning+Machine+Learning;Turning+Ideas+Into+Technology" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Artificial+Intelligence;Machine+Learning+%7C+Generative+AI;Building+Practical+Applications" alt="Animated introduction"/>
 
-<br/><br/>
+</div>
+
 
 <a href="https://www.linkedin.com/in/chandru-mugil-a-800a43295/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:chandrumugil46@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
