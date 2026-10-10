@@ -1,118 +1,140 @@
-# CHANDRUMUGIL A
-### AI & Data Science Undergraduate | AI/ML Enthusiast | Full-Stack Developer
+ <!-- Premium Dark GitHub Profile README -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;Developing+Full-Stack+Applications" alt="Introduction" />
-</p>
+<div align="center">
 
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:6D28D9&height=200&section=header&text=CHANDRUMUGIL%20A&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20AI%2FML%20%7C%20Full-Stack%20Development&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Profile banner"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+Artificial+Intelligence;Developing+Full-Stack+Applications;Turning+Ideas+Into+Technology" alt="Typing introduction"/>
+
+  <br/>
+
   <a href="https://www.linkedin.com/in/chandru-mugil-a-800a43295/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:chandrumugil46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
   </a>
-</p>
+
+</div>
 
 ---
 
-## About Me
+## `01` — About Me
 
-I'm an Artificial Intelligence and Data Science undergraduate at **GKM College of Engineering and Technology**, passionate about applying technology to solve real-world problems.
+```python
+class Developer:
+    name = "Chandrumugil A"
+    education = "B.Tech AI & Data Science"
+    college = "GKM College of Engineering and Technology"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "Full-Stack Development"
+    ]
+    current_focus = "Building practical AI-powered applications"
+```
 
-My interests span artificial intelligence, machine learning, data analysis, Generative AI, AI agents, and full-stack application development. Through internships and hands-on projects, I continue to strengthen my programming, analytical, and problem-solving skills.
+I'm an **Artificial Intelligence and Data Science undergraduate** interested in building intelligent applications and solving real-world problems through technology.
 
-- 🎓 B.Tech in Artificial Intelligence and Data Science — 2023–2027
-- 🤖 Exploring AI, Machine Learning, Generative AI, and Computer Vision
-- 💻 Building applications with Python and modern web technologies
+My interests include machine learning, generative AI, computer vision, data analysis, and full-stack development. I enjoy exploring new technologies, strengthening my technical skills, and translating ideas into practical solutions.
+
+- 🎓 B.Tech in Artificial Intelligence and Data Science (2023–2027)
+- 🤖 Exploring AI, ML, Generative AI, and Computer Vision
+- 💻 Developing applications using Python and modern web technologies
 - 🚀 Featured project: MediConnect AI
-- 🌱 Focused on continuous learning and practical implementation
+- 🌱 Focused on continuous learning and hands-on development
 
 ---
 
-## Tech Stack
+## `02` — Technical Skills
 
 ### Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL tools" />
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL"/>
 </p>
 
 ### AI, Machine Learning & Data Science
+
 <p>
-  <img src="https://img.shields.io/badge/Machine_Learning-Research_%26_Development-635BFF?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Generative_AI-Exploration-7C3AED?style=flat-square" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Computer_Vision-AI-0891B2?style=flat-square" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/AI_Agents-Workflows-0F766E?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Data_Analysis-EDA-15803D?style=flat-square" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Generative_AI-4338CA?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-1D4ED8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-047857?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
 </p>
 
 ### Web Development & Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" alt="Web development technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb&theme=dark" alt="Web development and database technologies"/>
 </p>
 
 ### Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Development tools"/>
 </p>
 
 ---
 
-## Featured Project
+## `03` — Featured Project
 
-### MediConnect AI — AI-Powered Healthcare Platform
+### 🔷 MediConnect AI
+**AI-Powered Healthcare Platform**
 
-> A full-stack healthcare platform designed to connect patients, doctors, and administrators.
+A full-stack healthcare platform designed to connect patients, doctors, and administrators through a centralized digital experience.
 
-**Core Features**
+**Key Features**
+
 - Appointment management
 - Medical records and prescription management
 - Role-based dashboards
 - Feedback management
-- RESTful API development
-- MongoDB integration
+- RESTful API integration
+- MongoDB database integration
 - AI-assisted healthcare features
 
-**Technology Stack**
+**Built With**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `AI`
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs` · `AI`
 
 <p>
   <a href="YOUR_MEDICONNECT_REPOSITORY_LINK">
-    <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+    <img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
   </a>
 </p>
 
 ---
 
-## Professional Experience
+## `04` — Professional Experience
 
 ### Artificial Intelligence Intern
 **Growfinix Technology** · Remote / Chennai  
 *July 2026 – August 2026*
 
-- Explored artificial intelligence and machine learning concepts through practical tasks and experimentation.
+- Explored AI and machine learning concepts through practical tasks and experimentation.
 - Applied Python and data analysis techniques to AI-related problems.
-- Developed analytical and problem-solving skills through practical implementation of AI concepts.
+- Strengthened analytical thinking and problem-solving skills through hands-on work.
 
 ### Web Development Intern
 **TechEnclave** · Remote  
 *June 2025*
 
-- Developed a responsive e-commerce website using modern web development technologies.
+- Developed a responsive e-commerce website using modern web technologies.
 - Worked on frontend development, user interface implementation, and responsive design.
-- Gained practical experience in web application development and full-stack implementation.
+- Gained practical experience in web application development.
 
 ---
 
-## Certifications
+## `05` — Certifications
 
 | Certification | Organization |
-|---|---|
+|:--|:--|
 | Introduction to Agent Skills | Anthropic |
 | Claude Code | Anthropic |
 | AI Foundation | OpenAI |
@@ -122,40 +144,57 @@ My interests span artificial intelligence, machine learning, data analysis, Gene
 
 ---
 
-## Education
+## `06` — Education
 
-**GKM College of Engineering and Technology**  
+**GKM College of Engineering and Technology**
+
 B.Tech — Artificial Intelligence and Data Science  
-2023–2027 · CGPA: 7.5/10
+`2023–2027` · CGPA: `7.5/10`
 
-**St. Ann's Matriculation Higher Secondary School**  
-Higher Secondary Education · 2023 · 70%
+**St. Ann's Matriculation Higher Secondary School**
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
+Higher Secondary Education · `2023` · `70%`
 
 ---
 
-## Let's Connect
+## `07` — GitHub Analytics
 
-I'm interested in learning, collaborating on meaningful projects, and exploring opportunities in AI, data science, and software development.
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chandru-mugil-a-800a43295/">LinkedIn</a> •
-  <a href="mailto:chandrumugil46@gmail.com">Email</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=60A5FA&rank_icon=github" alt="GitHub statistics"/>
 
-<p align="center">
-  <i>Building with purpose. Learning every day. Turning ideas into solutions.</i>
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages"/>
+
+  <br/><br/>
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `08` — Let's Connect
+
+I'm open to connecting with fellow developers, learning from the tech community, and collaborating on meaningful AI and software development projects.
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/chandru-mugil-a-800a43295/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chandrumugil46@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:6D28D9&height=110&section=footer" width="100%" alt="Footer banner"/>
+
+  <i>Building with purpose. Learning every day. Turning ideas into intelligent solutions.</i>
+
+</div>
+
+<!-- End of README -->
